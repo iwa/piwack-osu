@@ -1,5 +1,27 @@
 {
   "DrawableInfo": {
-    "osu": []
+    "osu": [
+      {
+        "Type": "osu.Game.Skinning.SkinnableSprite, osu.Game, Version=2024.521.2.0, Culture=neutral, PublicKeyToken=null",
+        "Position": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "Rotation": 0.0,
+        "Scale": {
+          "x": 0.46655586,
+          "y": 0.46656543
+        },
+        "Width": null,
+        "Height": null,
+        "Anchor": 18,
+        "Origin": 18,
+        "UsesFixedAnchor": true,
+        "Settings": {
+          "sprite_name": "custom-bg-std-corner.png"
+        },
+        "Children": []
+      }
+    ]
   }
 }
