@@ -43,7 +43,7 @@
         "Type": "osu.Game.Skinning.LegacyAccuracyCounter, osu.Game, Version=2024.519.1.0, Culture=neutral, PublicKeyToken=null",
         "Position": {
           "x": -3.5,
-          "y": 25.5
+          "y": 33.5
         },
         "Rotation": 0.0,
         "Scale": {
@@ -144,7 +144,7 @@
         "Type": "osu.Game.Screens.Play.HUD.PlayerAvatar, osu.Game, Version=2024.519.1.0, Culture=neutral, PublicKeyToken=null",
         "Position": {
           "x": -15.5,
-          "y": 53.5
+          "y": 61.5
         },
         "Rotation": 0.0,
         "Scale": {
@@ -165,7 +165,7 @@
         "Type": "osu.Game.Skinning.Components.PlayerName, osu.Game, Version=2024.519.1.0, Culture=neutral, PublicKeyToken=null",
         "Position": {
           "x": -44.2,
-          "y": 57.3
+          "y": 65.5
         },
         "Rotation": 0.0,
         "Scale": {
@@ -225,6 +225,27 @@
           "show_moving_average": true,
           "centre_marker_style": 1,
           "label_style": 0
+        },
+        "Children": []
+      },
+      {
+        "Type": "osu.Game.Skinning.SkinnableSprite, osu.Game, Version=2024.521.2.0, Culture=neutral, PublicKeyToken=null",
+        "Position": {
+          "x": -10.0,
+          "y": 31.5
+        },
+        "Rotation": 0.0,
+        "Scale": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "Width": null,
+        "Height": null,
+        "Anchor": 33,
+        "Origin": 33,
+        "UsesFixedAnchor": false,
+        "Settings": {
+          "sprite_name": "custom-bar.png"
         },
         "Children": []
       }
