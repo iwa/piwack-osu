@@ -186,12 +186,12 @@
         "Type": "osu.Game.Screens.Play.HUD.ArgonSongProgress, osu.Game, Version=2024.519.1.0, Culture=neutral, PublicKeyToken=null",
         "Position": {
           "x": 0.0,
-          "y": -5.0
+          "y": -2.0
         },
         "Rotation": 0.0,
         "Scale": {
-          "x": 1.0,
-          "y": 1.0
+          "x": 0.9,
+          "y": 0.9
         },
         "Width": 0.6637604,
         "Height": null,
@@ -207,7 +207,7 @@
         "Type": "osu.Game.Screens.Play.HUD.HitErrorMeters.BarHitErrorMeter, osu.Game, Version=2024.519.1.0, Culture=neutral, PublicKeyToken=null",
         "Position": {
           "x": 0.0,
-          "y": -21
+          "y": -18
         },
         "Rotation": 90.0,
         "Scale": {
